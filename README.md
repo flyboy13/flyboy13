@@ -3,6 +3,7 @@
 <p align="center">Building cross-platform mobile &amp; Linux apps that talk to drones, sensors, and real-time video.</p>
 
 <p align="center">
+  <a href="https://nguyen-duc-tai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nductai-work"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nductai.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=flyboy13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
